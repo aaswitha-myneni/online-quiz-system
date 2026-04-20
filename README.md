@@ -1,5 +1,5 @@
 # Online Quiz System
-A full-stack quiz application built for my B.Tech project.
+A full-stack quiz application built for my  project.
 
 ### Tech Stack:
 - **Frontend:** HTML5, CSS3, JavaScript (Fetch API)
